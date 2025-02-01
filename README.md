@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Web Dev Pre-Work APP*
 
 Submitted by: **Claudia Yamamoto**
 
